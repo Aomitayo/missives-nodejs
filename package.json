@@ -1,0 +1,24 @@
+{
+  "name": "missives",
+  "version": "0.0.1",
+  "description": "Nodejs bindings to the missives mobile messaging toolkit",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha tests/specs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Aomitayo/missives-nodejs.git"
+  },
+  "keywords": [
+    "missives",
+    "\"mobile",
+    "messaging\""
+  ],
+  "author": "Adedayo Omitayo <adedayo.omitayo@flowswift.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aomitayo/missives-nodejs/issues"
+  },
+  "homepage": "https://github.com/Aomitayo/missives-nodejs"
+}
