@@ -6,6 +6,7 @@ var TransportType = require('./transport-types');
 module.exports.MessageType = joi.string().only('SMS').default('SMS');
 
 module.exports = joi.object().keys({
+	messageId: joi.string(),
 	toAddr: joi.string(),
 	fromAddr: joi.string(),
 	content: joi.string(),
