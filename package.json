@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Aomitayo/missives-nodejs/issues"
   },
-  "homepage": "https://github.com/Aomitayo/missives-nodejs"
+  "homepage": "https://github.com/Aomitayo/missives-nodejs",
+  "dependencies": {
+	  "joi": "^6.6.1"
+  }
 }
