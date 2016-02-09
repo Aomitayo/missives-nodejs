@@ -1,6 +1,6 @@
 {
   "name": "missives",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nodejs bindings to the missives mobile messaging toolkit",
   "main": "src/main.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Aomitayo/missives-nodejs",
   "dependencies": {
-	  "joi": "^6.6.1"
+    "joi": "^6.6.1"
   }
 }
